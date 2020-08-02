@@ -43,7 +43,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:xinyu_li@berkeley.edu
   #- icon: twitter
   #icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
@@ -73,6 +74,6 @@ user_groups:
 
 I am first year PhD student at in Industrial Engineering & Operations Research at UC Berkeley. My primary research interests are a combination of optimization theory, statistics, and rigorous stochastic analysis. 
 
-Prior to joining UC Berkely, I finished my undergrad at New York University Shanghai and Courant Institut, with major in Honors Mathematics and minor in Data Science.
+Prior to joining UC Berkely, I finished my undergrad at New York University Shanghai and Courant Institute, with major in Honors Mathematics and minor in Data Science.
 
-I am passionate about working in many areas including optimization and stochastics, combining probability theory with theoretical optimization theory, and developing optimization tools which can be used in a high-dimensional and stochastic system. I am interested in data-driven optimization, convex and non-convex optimization, high-dimensional statistics, stochastic programming, optimal control theory, mean-field game and control theory.  
+I am passionate about working in many areas including optimization and stochastics, combining probability theory with theoretical optimization theory, and developing optimization tools which can be used in a high-dimensional and stochastic system. I am interested in data-driven optimization, convex and non-convex optimization, high-dimensional statistics, stochastic optimization, optimal control theory, mean-field game and control theory.  
