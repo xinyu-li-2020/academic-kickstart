@@ -32,7 +32,7 @@ education:
   - course: PhD in Industrial Engineering & Operation Research   
     institution: UC Berkeley
     year: 2020 - now
-  - course: BSc in Honors Mathematics
+  - course: BSc(Hons) in Honors Mathematics
     institution: New York Univerisity (Shanghai, New York)
     year: 2016 - 2020
 
@@ -51,9 +51,9 @@ social:
   #- icon: google-scholar
   #icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/xinyu-li-2020
+  #- icon: github
+  #icon_pack: fab
+  #link: https://github.com/xinyu-li-2020
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -61,7 +61,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xinyu_li@berkeley.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
