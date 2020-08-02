@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xinyu Li 李新宇
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name:  Industrial Engineering & Operation Research     
+  url: "https://ieor.berkeley.edu/"
+- name:  University of California, Berkeley
+  url: "https://berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include optimization, stochastic analysis, optimal control problems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Optimization
+- Stochastic Analysis
+- Stochastic Optimal Control 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Industrial Engineering & Operation Research   
+    institution: UC Berkeley
+    year: 2020 - now
+  - course: BSc in Honors Mathematics
+    institution: New York Univerisity (Shanghai, New York)
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,20 +44,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: twitter
+  #icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
+  #- icon: google-scholar
+  #icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xinyu-li-2020
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,8 +67,12 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am first year PhD student at in Industrial Engineering & Operations Research at UC Berkeley. My primary research interests are a combination of optimization theory, statistics, and rigorous stochastic analysis. 
+
+Prior to joining UC Berkely, I finished my undergrad at New York University Shanghai and Courant Institut, with major in Honors Mathematics and minor in Data Science.
+
+I am passionate about working in many areas including optimization and stochastics, combining probability theory with theoretical optimization theory, and developing optimization tools which can be used in a high-dimensional and stochastic system. I am interested in data-driven optimization, convex and non-convex optimization, high-dimensional statistics, stochastic programming, optimal control theory, mean-field game and control theory.  
