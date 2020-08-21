@@ -35,4 +35,4 @@ subtitle = ""
 - Meritorious Winner of Mathematical Contest in Modelling (top 9%) 2019
 - NYU Shanghai Deans' Undergraduate Research Fund 2018
 - NYU Shanghai Dean’s List of Honors 2016-2019
-+++
+
