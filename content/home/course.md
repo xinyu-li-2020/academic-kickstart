@@ -29,8 +29,11 @@ subtitle = ""
 **UC Berkeley**
 
 IEOR 263A  Mathematical Programming I
+
 IEOR 262A  Applied Stochastic Process I    
+
 IEOR 266     Network Flows and Graphs
+
 IEOR 290     Special Topics in Industrial Engineering and Operation Research
 
 **New York University**
