@@ -13,7 +13,7 @@ subtitle = ""
 #   2 = Compact
 #   3 = Card
 #   4 = Citation (publication only)
-view = 2
+view = 1
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
