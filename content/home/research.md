@@ -27,7 +27,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**Efficient First-Order Methods for Peng-Wei Semi-definite Programming with application to optimal clustering.** {{% staticref "files/pwsdp.pdf" "newtab" %}}[pdf]{{% /staticref %}} _Advisor: Prof. Shuyang Ling, NYU Shanghai, 2020._ (Recieved Major Honors)
+**Efficient First-Order Methods for Peng-Wei Semi-definite Programming with application to optimal clustering.** {{% staticref "files/pwsdp.pdf" "newtab" %}}[pdf]{{% /staticref %}} _Advisor: Prof. Shuyang Ling, NYU Shanghai, 2020._ (Recieved Major Honors in Major _Honors Mathematics_)
 - Solved Peng-Wei Semi-Definite Programming (SDP) Relaxation using James Renegar’s efficient first-order methods for SDP; Reduced the bound of total computational complexity 
 
 **Stochastic-Optimization-Based Stochastic Optimal Control** {{% staticref "files/sure.pdf" "newtab" %}}[pdf]{{% /staticref %}} _Advisor: Prof. Jonathan Goodman, Courant Institute of Mathematical Sciences, 2019._ (Presented at [Courant Summer Undergraduate Research Experience Symposium](https://math.nyu.edu/dynamic/undergrad/activities-research/summer-undergraduate-research-experience).)
