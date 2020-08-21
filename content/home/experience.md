@@ -47,5 +47,4 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
-dsfka sdaklf cvbew dafer fxgsretopi xfv kc
 +++
