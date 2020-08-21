@@ -7,7 +7,13 @@ weight =70  # Order that this section will appear.
 
 title = "Teaching Experience"
 subtitle = ""
-
+[design]
+# Toggle between the various page layout types.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation (publication only)
+view = 2
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"

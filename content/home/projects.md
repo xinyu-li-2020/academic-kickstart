@@ -54,11 +54,11 @@ subtitle = "Undergraduate"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "navy"
+  #color = ""
   
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-  gradient_end = "SkyBlue"
+  #gradient_start = "DeepSkyBlue"
+  #gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
