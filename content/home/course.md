@@ -27,12 +27,14 @@ subtitle = ""
  css_class = ""
 +++
 **UC Berkeley**
+
 IEOR 263A  Mathematical Programming I
 IEOR 262A  Applied Stochastic Process I    
 IEOR 266     Network Flows and Graphs
 IEOR 290     Special Topics in Industrial Engineering and Operation Research
 
 **New York University**
+
 MATH-GA 2704   [Applied Stochastic Analysis](https://cims.nyu.edu/~holmes/teaching/asa2019.html)
 MATH-GA 2012   Monte Carlo Methods    
 MATH-GA 2043   [Scientific Computing](https://www.math.nyu.edu/faculty/goodman/teaching/ScientificComputing2018/ScientificComputing.html)
