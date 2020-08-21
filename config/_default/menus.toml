@@ -21,14 +21,15 @@
 
 
 [[main]]
+  name = "Courses"
+  url = "#course"
+  weight = 45
+
+[[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 50
 
-[[main]]
-  name = "Courses"
-  url = "#course"
-  weight = 51
 
 [[main]]
   name = "Awards"
