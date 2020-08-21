@@ -50,9 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 **New York University**
-- Learning Assistant for Introduction to Computer Programming
-- Learning Assistant for Multivariable Calculus
+- Learning Assistant for Multivariable Calculus (Fall 2019)
+- Learning Assistant for Introduction to Computer Programming (Fall 2017)
 
-**UC Berkeley** 
-- on going [IEOR]
+#**UC Berkeley** 
+#- on going [IEOR]
 +++

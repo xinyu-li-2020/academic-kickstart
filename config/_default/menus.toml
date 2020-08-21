@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Teaching"
-  url = "demo"
+  url = "#teaching"
   weight = 50
 
 [[main]]
@@ -30,6 +30,10 @@
   url = "#course"
   weight = 51
 
+[[main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 52
 
 [[main]]
   name = "Contact"
