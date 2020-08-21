@@ -28,7 +28,8 @@ subtitle = ""
 +++
 
 **Efficient First-Order Methods for Peng-Wei Semi-definite Programming with application to optimal clustering.** {{% staticref "files/pwsdp.pdf" "newtab" %}}[pdf]{{% /staticref %}} 
-Advisor: Prof. Shuyang Ling, NYU Shanghai, 2020.
+
+_Advisor: Prof. Shuyang Ling, NYU Shanghai, 2020._
 - Solved Peng-Wei Semi-Definite Programming (SDP) Relaxation using James Renegar’s efficient first-order methods for SDP
 - Theoretically proved that the bound of total computational complexity was reduced compared with previous literature
 
