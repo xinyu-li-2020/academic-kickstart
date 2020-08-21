@@ -49,14 +49,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### bold: **text**
-### blue alert box: {{% alert note %}} my alert text {{% alert note %}}
-### blue text: [text]
-### dot: -
-
 **New York University**
 - Learning Assistant for Introduction to Computer Programming
 - Learning Assistant for Multivariable Calculus
 
 **UC Berkeley** 
-- on going
+- on going [IEOR]
++++
