@@ -73,6 +73,6 @@ user_groups:
 
 I am a first year PhD student in Industrial Engineering & Operations Research at UC Berkeley. My primary research interests are a combination of optimization theory, statistics, and rigorous stochastic analysis. 
 
-Prior to joining UC Berkely, I finished my undergrad at New York University Shanghai and Courant Institute, with major in Honors Mathematics and minor in Data Science.
+Prior to joining UC Berkely, I finished my undergrad at [New York University Shanghai](https://shanghai.nyu.edu/) and [Courant Institute of Mathematical Science](https://cims.nyu.edu/), with a major in _Honors Mathematics_ and a minor in _Data Science_.
 
 I am passionate about working in many areas including optimization and stochastics, combining probability theory with theoretical optimization theory, and developing optimization tools which can be used in a high-dimensional and stochastic system. 
