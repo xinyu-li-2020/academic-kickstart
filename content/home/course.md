@@ -40,7 +40,5 @@ subtitle = ""
 - MATH-SHU 350T Probability Limit Theorems
 - MATH-SHU 266   Functional Analysis 
 - MATH-SHU 234   Math of Statistics & Data Science
-- MATH-UA    343   Algebra
-- MATH-UA    263   Partial Diff Equations
 - CSCI-SHU  360  Machine Learning
 - CSCI-SHU  210  Data Structures
