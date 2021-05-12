@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Industrial Engineering & Operation Research   
+  - course: Ph.D. in Industrial Engineering & Operations Research   
     institution: UC Berkeley
     year: 2020 - now
   - course: BSc (Hons) in Honors Mathematics
